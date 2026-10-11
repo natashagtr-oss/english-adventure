@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#635BFF">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<title>English Adventure</title>
+<link rel="manifest" href="manifest.json">
+<link rel="icon" href="icon-192.png">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div id="app">
+  <header class="topbar">
+    <button id="profileBtn" class="icon-btn hidden">👧</button>
+    <div class="brand"><div class="logo">EA</div><div><b>English Adventure</b><small id="who">Família</small></div></div>
+    <div class="stats">
+      <span>🔥 <b id="streak">0</b></span>
+      <span class="coins">🪙 <b id="coins">0</b></span>
+      <span>⭐ <b id="stars">0</b></span>
+    </div>
+  </header>
+  <main id="screen"></main>
+  <nav id="nav" class="nav hidden">
+    <button data-tab="learn" class="active"><span>🗺️</span>Trilha</button>
+    <button data-tab="review"><span>🧠</span>Revisar</button>
+    <button data-tab="stories"><span>📚</span>Histórias</button>
+    <button data-tab="rewards"><span>🎁</span>Prêmios</button>
+    <button data-tab="parent"><span>📊</span>Pais</button>
+  </nav>
+</div>
+<div id="modal" class="modal hidden"></div>
+<script src="app.js"></script>
+</body>
+</html>
