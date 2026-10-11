@@ -1,7 +1,14 @@
-# English Adventure v3
+# English Adventure v5 — Learn First
 
-Protótipo funcional infantil de inglês com progressão A1.
+Esta versão mantém o progresso da v4 e muda a pedagogia da lição:
 
-Inclui Lumi, 8 mundos / 40 atividades, estrelas, moedas, baús, meta diária, listening, escrita, fotos, montagem de frases por blocos, speaking, revisão espaçada, histórias, painel dos pais e modo bebê.
+1. Aprender a palavra/frase
+2. Ouvir a pronúncia
+3. Repetir em voz alta
+4. Ver significado/contexto
+5. Só então responder aos exercícios
 
-Currículo-base: 24 semanas, expansível para 6–12 meses com ciclos de revisão e speaking.
+Cada lição começa com flashcards de ensino derivados do próprio conteúdo da atividade.
+Depois entra a fase de prática/teste.
+
+Continua 100% gratuita e sem serviços pagos.
